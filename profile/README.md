@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-<!--
+We are ARHCode, a bunch of nerds from the Adriaan Roland Holst college 🏫 (actually a high school, very confusing) in the Netherlands.
 
-**Here are some ideas to get you started:**
+This is our school's site (though that has nothing to do with what we do here): https://arhc.nl
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+```c
+#include <stdio.h>
+int main(void)
+{
+  printf("Thanks for visiting our page!\n");
+  
+  return 0;
+}
+```
